@@ -21,7 +21,7 @@ intents.members = True
 
 # Support Server Invite: https://discord.gg/ZjBBxfVM
 GuildID = 1013869213443706960 # Enter Guild ID here
-Token = 'MTA4ODk4MzY2ODU1MjM4ODY5OQ.GJlY6d.dcJjmpFa4O7U1kRTXIXKI9NUWK8N7wPA1Y9nG8' # Token for client goes here
+Token = 'Token#' # Token for client goes here
 
 TicketPermission = 1088986329850843186 #Replace the ID with your ticket moderator / ticket permission role (people who can access tickets)
 BlacklistRoleID = 1089418835095998474
